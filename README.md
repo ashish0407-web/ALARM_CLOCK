@@ -30,10 +30,10 @@ This is a fully functional **Alarm Clock** application developed in Python. It i
 2. Follow the on-screen instructions to set, edit, or delete alarms.
 3. Keep the application running to ensure alarms trigger at the correct time.
 ### Technologies Used:
-Programming Language: Python
-Libraries:
-  1.tkinter (for GUI)
-  2.datetime (for time handling)
-  3.playsound (for alarm sounds)
+1.Programming Language: Python
+2.Libraries:
+   1.tkinter (for GUI)
+   2.datetime (for time handling)
+   3.playsound (for alarm sounds)
 ##Contact:
 Email:akumar04002@gmail.com
