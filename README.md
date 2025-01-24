@@ -25,11 +25,11 @@ This is a fully functional **Alarm Clock** application developed in Python. It i
   pip install -r requirements.txt  
 4.Run the application:
   python alarm_clock.py  
-##Usage
+### Usage
 1. Launch the application using the command above.
 2. Follow the on-screen instructions to set, edit, or delete alarms.
 3. Keep the application running to ensure alarms trigger at the correct time.
-##**Technologies Used**
+### Technologies Used:
 Programming Language: Python
 Libraries:
   1.tkinter (for GUI)
